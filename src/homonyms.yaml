@@ -8,6 +8,12 @@ close:
     - close
     - clothes
 
+csv:
+   - csv
+   
+download:
+   - download
+
 exit:
     - accent
     - exit
@@ -28,6 +34,11 @@ in:
 
 map:
     - map
+
+open:
+    - opan
+    - open
+    - opun
 
 screen:
     - screen
