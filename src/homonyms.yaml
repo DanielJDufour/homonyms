@@ -1,3 +1,6 @@
+about:
+    - about
+
 base:
     - base
 
@@ -8,11 +11,23 @@ close:
     - close
     - clothes
 
+create:
+    - create
+
 csv:
    - csv
    
+data:
+   - data
+   
+disclaimers:
+    - disclaimers
+   
 download:
    - download
+
+examples:
+    - examples
 
 exit:
     - accent
@@ -49,10 +64,16 @@ load:
 map:
     - map
 
+meta:
+    - meta
+
 open:
     - opan
     - open
     - opun
+    
+on:
+    - on
     
 pdf:
     - pdf
@@ -63,8 +84,17 @@ png:
 re:
     - re
 
+recent:
+    - recent
+
 screen:
     - screen
+
+share:
+    - share
+
+sources:
+    - sources
 
 switch:
     - swetch
