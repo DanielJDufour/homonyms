@@ -1,0 +1,65 @@
+base:
+    - base
+
+change:
+    - change
+
+close:
+    - close
+    - clothes
+
+exit:
+    - accent
+    - exit
+
+full:
+    - full
+    - pool
+
+go:
+    - go
+
+in:
+    - an
+    - en
+    - in
+    - on
+    - un
+
+map:
+    - map
+
+screen:
+    - screen
+
+switch:
+    - swetch
+    - switch
+
+out:
+    - at
+    - oat
+    - oot
+    - out
+    - ount
+
+view:
+    - view
+
+zoom:
+    - cinnam
+    - dom
+    - doom
+    - germ
+    - jim
+    - sum
+    - soon
+    - sune
+    - superm
+    - xoom
+    - zimmerm
+    - zoom
+    - zum
+    - zume
+
+
