@@ -22,6 +22,13 @@ full:
     - full
     - pool
 
+geojson:
+    - geojson
+
+gif:
+    - gif
+    - jif
+
 go:
     - go
 
@@ -32,6 +39,13 @@ in:
     - on
     - un
 
+jpg:
+    - jpg
+    - jpeg
+
+load:
+    - load
+
 map:
     - map
 
@@ -39,6 +53,15 @@ open:
     - opan
     - open
     - opun
+    
+pdf:
+    - pdf
+
+png:
+    - png
+
+re:
+    - re
 
 screen:
     - screen
@@ -54,6 +77,10 @@ out:
     - out
     - ount
 
+
+tsv:
+    - tsv
+    
 view:
     - view
 
