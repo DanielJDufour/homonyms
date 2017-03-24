@@ -1,0 +1,31 @@
+{
+  "name": "homonyms",
+  "version": "0.0.1",
+  "description": "Repository that holds words and phrases that sound like each other. Used for speech recognition.",
+  "main": "homonyms.js",
+  "scripts": {
+    "start": "node homonyms.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieljdufour/homonyms"
+  },
+  "keywords": [
+    "gis",
+    "recognition",
+    "speech"
+  ],
+  "author": "Daniel J. Dufour",
+  "contributors": [
+    "Daniel J. Dufour <daniel.j.dufour@gmail.com> (http://danieljdufour.com)"
+  ],
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-yaml": "^1.0.1"
+  }
+}
